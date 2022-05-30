@@ -28,7 +28,7 @@ npm run build
 
 ## Demo version
 
- [Tu dodaj swój link do Heroku/GH pages](http://heroku.com)
+https://calm-faloodeh-4af13f.netlify.app/
 
 
 ## Built with
